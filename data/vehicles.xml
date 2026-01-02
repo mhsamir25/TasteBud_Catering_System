@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicles>
+    <vehicle>
+        <vehicleId>V001</vehicleId>
+        <type>Bike</type>
+        <available>true</available>
+    </vehicle>
+</vehicles>
