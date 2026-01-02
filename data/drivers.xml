@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drivers>
+    <driver>
+        <id>D001</id>
+        <name>Rahim</name>
+        <license>
+            <licenseNo>DL-123456</licenseNo>
+            <valid>true</valid>
+        </license>
+        <available>true</available>
+    </driver>
+    <driver>
+        <id>D002</id>
+        <name>Samsu</name>
+        <license>
+            <licenseNo>DL002</licenseNo>
+            <valid>true</valid>
+        </license>
+        <available>true</available>
+    </driver>
+</drivers>
